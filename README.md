@@ -34,7 +34,12 @@ This project is useful for applications like text editors, social media posts, o
 2. Open the `index.html` file in your web browser.
 3. Start typing in the textarea and watch the character count update live.
 
-```html
-<textarea id="textArea" placeholder="Start typing..."></textarea>
-<p class="counter">Characters: <span id="charCount">0</span></p>
+## Screenshots
+
+Here is how the Live Character Counter looks:
+
+![Live Character Counter Screenshot](LiveChar.png)
+
+Made By : Asheem Khan (23BCS13395)
+
 
